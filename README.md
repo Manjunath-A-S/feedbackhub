@@ -110,5 +110,5 @@ Once the project is set up, you can access the application at `http://localhost:
 
 For any questions or issues, please contact:
 
-- Email: rahulhanje0.7@gmail.com
+- Email: manjuas025@gmail.com
 
